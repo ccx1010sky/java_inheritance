@@ -19,24 +19,4 @@ public class Instructor extends Person {
     }
 
 
-
-//    public String getName() {
-//        return name;
-//    }
-//
-//    public void setName(String name) {
-//        this.name = name;
-//    }
-//
-//    public String getCohort() {
-//        return cohort;
-//    }
-//
-//    public void setCohort(String cohort) {
-//        this.cohort = cohort;
-//    }
-//
-//    public String talk(String language){
-//        return "I love " + language;
-//    }
 }
